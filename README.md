@@ -1,16 +1,7 @@
-![App Screenshot](https://raw.githubusercontent.com/Nikola-developer/Nikola-developer/refs/heads/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png)
+<table style="border: none;">
+<tr style="border: none;">
+<td style="border: none;">
 
-<!--
-# Nikola Jočić
-**Mobile App Developer**
-
-Enthusiastic software engineer focused on building fast, efficient and intuitive applications. Drawn to dynamic and innovative environments where I can leverage my talents and skills while continuing to learn and grow alongside a talented and collaborative team.
-
--->
-
-
-
-<!-- ### A little more about me... -->
 ```dart
 var NikolaJocic = Developer(
     currentFocus: "Building awesome applications",
@@ -30,7 +21,26 @@ var NikolaJocic = Developer(
     },
 );
 ```
-        <!--
+</td>
+<td style="border: none;"> <img src="https://github.com/Nikola-developer/Nikola-developer/blob/main/Untitled%20design-2.png?raw=true" width="250"> </td>
+</tr style="border: none;">
+</table>
+
+
+
+
+<!--
+# Nikola Jočić
+**Mobile App Developer**
+
+Enthusiastic software engineer focused on building fast, efficient and intuitive applications. Drawn to dynamic and innovative environments where I can leverage my talents and skills while continuing to learn and grow alongside a talented and collaborative team.
+
+-->
+
+
+<!-- ### A little more about me... -->
+
+<!--
         architecture: {
             frontEnd: ["SPA", "SSR"],
             backEnd: ["microservices", "monolithic", "serverless"],
@@ -41,7 +51,8 @@ var NikolaJocic = Developer(
             js: ["React", "Next.js"],
             css: ["Sass", "Tailwind", "Bootstrap"],
             uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
-        },-->
+        },
+-->
 
 
 <!--
