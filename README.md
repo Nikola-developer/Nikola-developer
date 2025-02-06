@@ -1,6 +1,6 @@
-<table style="border: none;">
-<tr style="border: none;">
-<td style="border: none;">
+<table >
+<tr>
+<td>
 
 ```dart
 var NikolaJocic = Developer(
@@ -22,7 +22,7 @@ var NikolaJocic = Developer(
 );
 ```
 </td>
-<td style="border: none;"> <img src="https://github.com/Nikola-developer/Nikola-developer/blob/main/Untitled%20design-2.png?raw=true" width="250"> </td>
+<td style="border: none;"> <img src="https://github.com/Nikola-developer/Nikola-developer/blob/main/assets/developer.png?raw=true" width="250"> </td>
 </tr style="border: none;">
 </table>
 
