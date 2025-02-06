@@ -1,8 +1,6 @@
-
-
-<!--
 ![App Screenshot](https://raw.githubusercontent.com/Nikola-developer/Nikola-developer/refs/heads/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 
+<!--
 # Nikola Jočić
 **Mobile App Developer**
 
@@ -12,7 +10,7 @@ Enthusiastic software engineer focused on building fast, efficient and intuitive
 
 
 
-### A little more about me... 
+<!-- ### A little more about me... -->
 ```dart
 var NikolaJocic = Developer(
     currentFocus: "Building awesome applications",
@@ -27,22 +25,23 @@ var NikolaJocic = Developer(
                 ios: ["Swift"],
             },
         },
+        backEnd: ["PHP", "Node"],
+        databases: ["MySQL", "MSSQL", "Firebase Realtime DB", "SQLite"],
+    },
+);
+```
+        <!--
+        architecture: {
+            frontEnd: ["SPA", "SSR"],
+            backEnd: ["microservices", "monolithic", "serverless"],
+            devOps: ["CloudFormation", "Serverless Framework"],
+            databases: ["Relational", "SQL"],
+        },
         frontEnd: {
             js: ["React", "Next.js"],
             css: ["Sass", "Tailwind", "Bootstrap"],
             uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
-        },
-        backEnd: ["PHP", "Node"],
-        databases: ["MySQL", "MSSQL", "Firebase Realtime DB", "SQLite"],
-    },
-    architecture: {
-        frontEnd: ["SPA", "SSR"],
-        backEnd: ["microservices", "monolithic", "serverless"],
-        devOps: ["CloudFormation", "Serverless Framework"],
-        databases: ["Relational", "SQL"],
-    },
-);
-```
+        },-->
 
 
 <!--
