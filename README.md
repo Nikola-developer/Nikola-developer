@@ -22,7 +22,7 @@ var NikolaJocic = Developer(
 );
 ```
 </td>
-<td style="border: none;"> <img src="https://github.com/Nikola-developer/Nikola-developer/blob/main/assets/developer.png?raw=true" width="250"> </td>
+<td> <img src="https://github.com/Nikola-developer/Nikola-developer/blob/main/assets/developer.png?raw=true" width="250"> </td>
 </tr style="border: none;">
 </table>
 
